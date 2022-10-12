@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    background-color: #E9ECEF;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.card-img-top {
+    height:400px;
+}
